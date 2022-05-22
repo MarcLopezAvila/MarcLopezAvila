@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**MarcLopezAvila/MarcLopezAvila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I am working as Frontend Lead Engineer in Barcelona, Spain.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Publishing my own 2048 Game in **React Native**
+- 🎯 Planning a **react-spatial-navigation** library;
+
+##### BIO
+
+- 🏢 I'm currently working at [**Agile Content**](https://www.agilecontent.com)
+- 🌱 Currently learning **React Native**
+- 🧐 Interested in everything **Cloud Clean Clever**
+- ❤️ Open Source Software
+- 📫 How to reach me: lopez.avila.marc@gmail.com
