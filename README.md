@@ -51,7 +51,7 @@
 <td valign="top" width="33%">
 
 ###### Flirting chat
-<img src="https://github.com/MarcLopezAvila/flirting-chat-demo/blob/master/img/preview.jpg?raw=true" width="100">
+<img src="https://github.com/MarcLopezAvila/pure-css-deer/blob/master/img/preview.png?raw=true" width="100">
 
 </td>
 
