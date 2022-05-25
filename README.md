@@ -34,7 +34,7 @@
 
 <td valign="top" width="33%">
 
-###### Planet defense game
+###### JS Planet game
 <img src="https://github.com/MarcLopezAvila/planet-defense-game/blob/master/img/game.png?raw=true" width="100">
 
 </td>
@@ -48,7 +48,7 @@
 
 <td valign="top" width="33%">
 
-###### Flirting chat demo
+###### Flirting chat
 <img src="https://github.com/MarcLopezAvila/flirting-chat-demo/blob/master/img/preview.jpg?raw=true" width="100">
 
 </td>
