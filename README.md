@@ -1,6 +1,7 @@
 ### Hi there 👋
-
 #### I am working as Frontend Lead Engineer in Barcelona, Spain.
+
+<table width="100% !important"><tr><td valign="top" width="50%">
 
 ##### NOW
 
@@ -14,3 +15,10 @@
 - 🧐 Interested in everything **Cloud Clean Clever**
 - ❤️ Open Source Software
 - 📫 How to reach me: lopez.avila.marc@gmail.com
+
+</td>
+  <td valign="top" width="50%">
+
+##### TODO
+
+</td></tr></table>
