@@ -12,6 +12,9 @@
 - 🧐 Interested in everything **Cloud Clean Clever**
 - ❤️ Open Source Software
 - 📫 How to reach me: lopez.avila.marc@gmail.com
+    
+##### CV
+[DOWNLOAD MY CV](https://github.com/MarcLopezAvila/pure-css-deer/blob/master/img/preview.png)
 
 </td><td valign="top" width="50%">
 
