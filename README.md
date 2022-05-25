@@ -2,7 +2,7 @@
 
 ##### NOW
 
-- ✨ I am working as Frontend Lead Engineer in Barcelona, Spain.
+- ✨ Working as Frontend Lead Engineer in Barcelona.
 - 🎯 Publishing my own 2048 Game in **React Native**
 
 ##### BIO
