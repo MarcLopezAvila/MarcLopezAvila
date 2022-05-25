@@ -1,10 +1,8 @@
-### Hi there 👋
-#### I am working as Frontend Lead Engineer in Barcelona, Spain.
-
 <table width="100% !important"><tr><td valign="top" width="50%">
 
 ##### NOW
 
+- ✨ I am working as Frontend Lead Engineer in Barcelona, Spain.
 - ✨ Publishing my own 2048 Game in **React Native**
 - 🎯 Planning a **react-spatial-navigation** library;
 
