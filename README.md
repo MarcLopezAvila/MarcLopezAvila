@@ -23,28 +23,28 @@
 <table><tr><td valign="top" width="33%">
   
 ###### Pure CSS Bird
-<img src="https://github.com/MarcLopezAvila/pure-css-bird/blob/master/img/bird.png?raw=true" width="100">
+[<img src="https://github.com/MarcLopezAvila/pure-css-bird/blob/master/img/bird.png?raw=true" width="100">](https://github.com/MarcLopezAvila/pure-css-bird)
 
 </td>
 
 <td valign="top" width="33%">
 
 ###### Pure CSS Deer
-<img src="https://github.com/MarcLopezAvila/pure-css-deer/blob/master/img/preview.png?raw=true" width="100">
+[<img src="https://github.com/MarcLopezAvila/pure-css-deer/blob/master/img/preview.png?raw=true" width="100">](https://github.com/MarcLopezAvila/pure-css-deer)
 
 </td>
 
 <td valign="top" width="33%">
 
 ###### JS Planet game
-<img src="https://github.com/MarcLopezAvila/planet-defense-game/blob/master/img/game.png?raw=true" width="100">
+[<img src="https://github.com/MarcLopezAvila/planet-defense-game/blob/master/img/game.png?raw=true" width="100">](https://github.com/MarcLopezAvila/planet-defense-game)
 
 </td>
 
 </tr><tr><td valign="top" width="33%">
   
 ###### Dynamic shadow
-<img src="https://github.com/MarcLopezAvila/js-dynamic-shadow/blob/master/img/preview.png?raw=true" width="100">
+[<img src="https://github.com/MarcLopezAvila/js-dynamic-shadow/blob/master/img/preview.png?raw=true" width="100">](https://github.com/MarcLopezAvila/js-dynamic-shadow)
 
 </td>
 
@@ -58,7 +58,7 @@
 <td valign="top" width="33%">
 
 ###### 3D cubes
-<img src="https://github.com/MarcLopezAvila/pure-css-3d-cubes/blob/master/img/preview.png?raw=true" width="100">
+[<img src="https://github.com/MarcLopezAvila/pure-css-3d-cubes/blob/master/img/preview.png?raw=true" width="100">](https://github.com/MarcLopezAvila/pure-css-3d-cubes)
 
 </td></tr></table>
 
