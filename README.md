@@ -14,7 +14,7 @@
 - 📫 How to reach me: lopez.avila.marc@gmail.com
     
 <br/><br/>
-[DOWNLOAD MY CV](https://github.com/MarcLopezAvila/MarcLopezAvila/blob/master/CV.pdf)
+[DOWNLOAD MY CV](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
 
 </td><td valign="top" width="50%">
 
