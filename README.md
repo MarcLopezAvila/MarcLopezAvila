@@ -9,7 +9,7 @@
 
 - 🏢 I'm currently working at [**Agile Content**](https://www.agilecontent.com)
 - 🌱 Currently learning **React Native**
-- 🧐 Interested in everything **Cloud Clean Clever**
+- 🧐 Interested in software **Cloud Clean Clever**
 - ❤️ Open Source Software
 - 📫 How to reach me: lopez.avila.marc@gmail.com
     
