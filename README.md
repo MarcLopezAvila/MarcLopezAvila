@@ -12,9 +12,21 @@
 - 🧐 Interested in software **Cloud Clean Clever**
 - ❤️ Open Source Software
 - 📫 How to reach me: lopez.avila.marc@gmail.com
+
+ 
+ ##### CV
+<table><tr><td valign="center" width="50%">
+
+[VIEW ONLINE](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
     
-<br/><br/>
-[DOWNLOAD MY CV](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
+<hr/>
+    
+[DOWNLOAD](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
+
+</td><td valign="top" width="50%">
+
+    
+</td></tr></table>
 
 </td><td valign="top" width="50%">
 
