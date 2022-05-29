@@ -15,7 +15,7 @@
   
  <hr>
   
-[&nbsp;&nbsp;DOWNLOAD MY CV](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
+[DOWNLOAD MY CV](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
 
 </td><td valign="top" width="50%">
 
