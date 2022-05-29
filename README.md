@@ -14,17 +14,17 @@
 - 📫 How to reach me: lopez.avila.marc@gmail.com
 
 ##### CV
-<table><tr><td valign="bottom" width="50%">
+<table><tr><td align="center" valign="center" width="50%">
 
-[VIEW ONLINE](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
+  [VIEW ONLINE](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
 
 <hr/>
 
 [DOWNLOAD](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
 
-</td><td valign="center" width="50%">
+</td><td align="center" valign="center" width="50%">
 
-[<img src="https://github.com/MarcLopezAvila/MarcLopezAvila/blob/main/public/cv.png?raw=true" width="300">](https://github.com/MarcLopezAvila/pure-css-3d-cubes)
+[<kbd><img align="center" src="https://github.com/MarcLopezAvila/MarcLopezAvila/blob/main/public/cv.png?raw=true" width="300"></kbd>](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
 
 </td></tr></table>
 
