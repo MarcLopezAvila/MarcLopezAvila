@@ -24,7 +24,7 @@
 
 </td><td align="center" valign="center" width="50%">
 
-[<kbd><img align="center" src="https://github.com/MarcLopezAvila/MarcLopezAvila/blob/main/public/cv.png?raw=true" width="200"></kbd>](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
+[<kbd><img align="center" src="https://github.com/MarcLopezAvila/MarcLopezAvila/blob/main/public/cv-preview.png?raw=true" width="200"></kbd>](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
 
 </td></tr></table>
 
