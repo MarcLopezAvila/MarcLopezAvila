@@ -14,7 +14,7 @@
 - 📫 How to reach me: lopez.avila.marc@gmail.com
 
 ##### CV
-<table><tr><td valign="center" width="50%">
+<table><tr><td valign="bottom" width="50%">
 
 [VIEW ONLINE](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
 
@@ -22,9 +22,9 @@
 
 [DOWNLOAD](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
 
-</td><td valign="top" width="50%">
+</td><td valign="center" width="50%">
 
-[<img src="https://github.com/MarcLopezAvila/MarcLopezAvila/blob/main/public/cv.png?raw=true" width="200">](https://github.com/MarcLopezAvila/pure-css-3d-cubes)
+[<img src="https://github.com/MarcLopezAvila/MarcLopezAvila/blob/main/public/cv.png?raw=true" width="300">](https://github.com/MarcLopezAvila/pure-css-3d-cubes)
 
 </td></tr></table>
 
