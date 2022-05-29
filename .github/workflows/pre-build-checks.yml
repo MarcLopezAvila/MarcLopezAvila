@@ -1,0 +1,28 @@
+name: Pre Build Checks
+'on':
+  push:
+    branches:
+      - main
+      - development
+  pull_request:
+    branches:
+      - '*'
+jobs:
+  build:
+    name: Quality
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: 🔨 Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+
+      - name: 📦 Test and Linting
+        run: |
+          npm ci
+          npm run lint
+        env:
+          CI: true
