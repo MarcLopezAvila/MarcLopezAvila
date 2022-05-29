@@ -13,21 +13,8 @@
 - ❤️ Open Source Software
 - 📫 How to reach me: lopez.avila.marc@gmail.com
   
- <hr/>
-
-<table><tr><td align="center" valign="center" width="50%">
-
-  [VIEW ONLINE CV](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
-
-<hr/>
-
-[DOWNLOAD CV](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
-
-</td><td align="center" valign="center" width="50%">
-
 [<kbd align="center"><img align="center" src="https://github.com/MarcLopezAvila/MarcLopezAvila/blob/main/public/cv-preview.png?raw=true" width="200"></kbd>](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
-
-</td></tr></table>
+[&nbsp;&nbsp;DOWNLOAD CV](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
 
 </td><td valign="top" width="50%">
 
