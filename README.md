@@ -12,19 +12,20 @@
 - 🧐 Interested in software **Cloud Clean Clever**
 - ❤️ Open Source Software
 - 📫 How to reach me: lopez.avila.marc@gmail.com
+  
+ <hr/>
 
-##### CV
 <table><tr><td align="center" valign="center" width="50%">
 
-  [VIEW ONLINE](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
+  [VIEW ONLINE CV](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
 
 <hr/>
 
-[DOWNLOAD](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
+[DOWNLOAD CV](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
 
 </td><td align="center" valign="center" width="50%">
 
-[<kbd><img align="center" src="https://github.com/MarcLopezAvila/MarcLopezAvila/blob/main/public/cv-preview.png?raw=true" width="200"></kbd>](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
+[<kbd align="center"><img align="center" src="https://github.com/MarcLopezAvila/MarcLopezAvila/blob/main/public/cv-preview.png?raw=true" width="200"></kbd>](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
 
 </td></tr></table>
 
