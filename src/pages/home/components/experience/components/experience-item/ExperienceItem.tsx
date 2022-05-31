@@ -4,14 +4,14 @@ import { Wrapper, Title, Place, Task, Tasks } from './ExperienceItem.styled';
 type ComponentProps = {
   title: string;
   company: string;
-  dateRange: [Date, Date];
+  date: string;
   tasks: string[];
 };
 
-const ExperienceItem: FC<ComponentProps> = ({ title, company, dateRange, tasks }) => (
+const ExperienceItem: FC<ComponentProps> = ({ title, company, date, tasks = [] }) => (
   <Wrapper>
     <Title>{title}</Title>
-    <Place><span>{company}</span> | <span>{dateRange[0].toDateString()}</span></Place>
+    <Place><span>{company}</span> | <span>{date}</span></Place>
     <Tasks>
       {tasks.map(task => <Task>{task}</Task>)}
     </Tasks>

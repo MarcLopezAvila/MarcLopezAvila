@@ -2,9 +2,9 @@
   "name": "marclopezavila",
   "version": "0.1.0",
   "private": true,
-  "repository":{
-    "type":"git",
-    "url":"https://github.com/MarcLopezAvila/MarcLopezAvila.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcLopezAvila/MarcLopezAvila.git"
   },
   "scripts": {
     "dev": "next dev",
@@ -21,7 +21,8 @@
     "react": "18.1.0",
     "react-dom": "18.1.0",
     "react-intl": "^6.0.3",
-    "styled-components": "^5.3.5"
+    "styled-components": "^5.3.5",
+    "styled-normalize": "^8.0.7"
   },
   "devDependencies": {
     "@babel/core": "^7.18.0",

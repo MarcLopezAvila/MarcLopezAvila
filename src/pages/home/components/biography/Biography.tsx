@@ -1,8 +1,10 @@
-import { Wrapper } from './Biography.styled';
+import { Wrapper, Separator } from './Biography.styled';
+import Name from './components/name';
 
 const Biography = () => (
   <Wrapper>
-    <div>BIO</div>
+    <Name />
+    <Separator />
   </Wrapper>
 );
 
