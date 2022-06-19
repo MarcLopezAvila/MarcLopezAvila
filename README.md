@@ -30,8 +30,8 @@
 
 <td valign="top" width="33%">
 
-###### 2048 React Native Game
-[<img width="374" alt="Screenshot 2022-06-19 at 15 26 08" src="https://user-images.githubusercontent.com/33020233/174483546-3b3012b1-4e6e-47ef-a8cd-cbccab4955e6.png">](https://play.google.com/store/apps/details?id=com.malvi.simple2048)
+###### 2048 React Native
+[<img alt="Screenshot 2022-06-19 at 15 26 08" src="https://user-images.githubusercontent.com/33020233/174483546-3b3012b1-4e6e-47ef-a8cd-cbccab4955e6.png" width="100">](https://play.google.com/store/apps/details?id=com.malvi.simple2048)
 
 </td>
 
