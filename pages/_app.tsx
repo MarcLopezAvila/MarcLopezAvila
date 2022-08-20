@@ -1,5 +1,5 @@
 import React from 'react';
-import { Normalize } from 'styled-normalize'
+import { Normalize } from 'styled-normalize';
 import GlobalStyle from 'application/styles/global-styles';
 
 type MyAppPropTypes = {

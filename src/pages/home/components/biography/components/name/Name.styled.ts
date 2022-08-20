@@ -4,12 +4,13 @@ export const Wrapper = styled.section`
   padding-right: 80px;
   padding-top: 50px;
   text-transform: uppercase;
-  min-width: 400px;
+  width: 450px;
 `;
 
 export const Title = styled.h1`
   font-weight: 800;
   line-height: 52px;
+  font-size: 43px;
   margin: 0;
   margin-bottom: 54px;
   & > span {

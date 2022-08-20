@@ -12,4 +12,5 @@ export const Wrapper = styled.h2`
   line-height: 20px;
   margin: 0;
   margin-bottom: 37px;
+  max-width: 450px;
 `;

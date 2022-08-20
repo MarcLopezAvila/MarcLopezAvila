@@ -7,4 +7,5 @@ export const Wrapper = styled.div`
   padding-left: 80px;
   padding-top: 50px;
   padding-bottom: 50px;
+  padding-right: 20px;
 `;

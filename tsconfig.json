@@ -56,7 +56,8 @@
   },
   "include": [
     "src",
-    "pages"
+    "pages",
+    "next-env.d.ts"
   ],
   "exclude": [
     "node_modules"
