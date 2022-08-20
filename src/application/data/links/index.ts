@@ -4,10 +4,10 @@ import github from './Octicons-mark-github.svg';
 export const linksList = [
   {
     link: 'https://github.com/MarcLopezAvila',
-    icon: github,
+    icon: github.src,
   },
   {
     link: 'https://codepen.io/Loopez10',
-    icon: codepen,
+    icon: codepen.src,
   },
 ];

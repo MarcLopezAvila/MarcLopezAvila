@@ -1,5 +1,4 @@
 import { FC } from 'react';
-import Image from 'next/image';
 import { Wrapper, Link } from './Item.styled';
 
 type ComponentProps = {
@@ -9,7 +8,7 @@ type ComponentProps = {
 
 const Item: FC<ComponentProps> = ({ link, icon }) => (
   <Wrapper>
-    <Image src={icon} width={20} height={20} />
+    <img alt={link} src={icon} width={20} height={20} />
     <Link href={link} target="_blank">{link}</Link>
   </Wrapper>
 );
