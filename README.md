@@ -3,14 +3,14 @@
 ##### NOW
 
 - ✨ Working as Frontend Lead Engineer in Barcelona.
-- 🎯 Publishing my own 2048 Game in **React Native**
+- 🎯 Advent of code 2022
 
 ##### BIO
 
 - 🏢 I'm currently working at [**Agile Content**](https://www.agilecontent.com)
 - 🌱 Currently learning **React Native**
-- 🧐 Interested in software **Cloud Clean Clever**
-- ❤️ Open Source Software
+- 🧐 Interested in Clean Code software
+- ❤️ Devops culture and philosophy
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marclopezavila/)
   
  <hr>
