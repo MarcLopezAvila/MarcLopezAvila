@@ -3,7 +3,7 @@
 ##### NOW
 
 - ✨ Working as Frontend Lead Engineer in Barcelona.
-- 🎯 Advent of code 2022
+- 🎯 Building React Native apps
 
 ##### BIO
 
