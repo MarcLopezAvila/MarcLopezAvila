@@ -24,7 +24,7 @@
 <table><tr><td valign="top" width="33%">
   
 ###### 2048 RN Game
-[<img src="https://user-images.githubusercontent.com/33020233/174483546-3b3012b1-4e6e-47ef-a8cd-cbccab4955e6.png" width="85" align="center">](https://play.google.com/store/apps/details?id=com.malvi.simple2048)
+[<img src="https://user-images.githubusercontent.com/33020233/174483546-3b3012b1-4e6e-47ef-a8cd-cbccab4955e6.png" width="80" align="center">](https://play.google.com/store/apps/details?id=com.malvi.simple2048)
 
 </td>
 
