@@ -13,9 +13,6 @@
 - ❤️ Devops culture and philosophy
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marclopezavila/)
   
- <hr>
-  
-[DOWNLOAD MY CV](https://github.com/MarcLopezAvila/MarcLopezAvila/raw/main/CV.pdf)
 
 </td><td valign="top" width="50%">
 
