@@ -20,7 +20,7 @@
 
 <table><tr><td valign="top" align="center" width="33%">
   
-###### 2048 RN Game
+###### RN Game
 [<img src="https://user-images.githubusercontent.com/33020233/174483546-3b3012b1-4e6e-47ef-a8cd-cbccab4955e6.png" width="80" align="center" center>](https://play.google.com/store/apps/details?id=com.malvi.simple2048)
 
 </td>
@@ -34,7 +34,7 @@
 
 <td valign="top" width="33%">
 
-###### JS Planet game
+###### JS game
 [<img src="https://github.com/MarcLopezAvila/planet-defense-game/blob/master/img/game.png?raw=true" width="100">](https://github.com/MarcLopezAvila/planet-defense-game)
 
 </td>
