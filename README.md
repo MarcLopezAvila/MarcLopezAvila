@@ -27,7 +27,7 @@
 
 <td valign="top" width="33%">
 
-###### Pure CSS Bird
+###### CSS Bird
 [<img src="https://github.com/MarcLopezAvila/pure-css-bird/blob/master/img/bird.png?raw=true" width="100">](https://github.com/MarcLopezAvila/pure-css-bird)
 
 </td>
