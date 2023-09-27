@@ -39,9 +39,11 @@
 
 </td>
 
-</tr><tr><td valign="top" width="33%">
+</tr>
+<tr>
+<td valign="top" width="33%">
 
-###### Dynamic shadow
+###### JS shadow
 [<img src="https://github.com/MarcLopezAvila/js-dynamic-shadow/blob/master/img/preview.png?raw=true" width="100">](https://github.com/MarcLopezAvila/js-dynamic-shadow)
 
 </td>
