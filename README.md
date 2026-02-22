@@ -21,7 +21,7 @@
 <table><tr><td valign="top" align="center" width="33%">
   
 ###### RN Game
-[<img src="https://user-images.githubusercontent.com/33020233/174483546-3b3012b1-4e6e-47ef-a8cd-cbccab4955e6.png" width="80" align="center" center>](https://play.google.com/store/apps/details?id=com.malvi.simple2048](https://play.google.com/store/apps/details?id=com.malvistudio.unlimited2048)
+[<img src="https://user-images.githubusercontent.com/33020233/174483546-3b3012b1-4e6e-47ef-a8cd-cbccab4955e6.png" width="80" align="center" center>](https://play.google.com/store/apps/details?id=com.malvistudio.unlimited2048)
 
 </td>
 
